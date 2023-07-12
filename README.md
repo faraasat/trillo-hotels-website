@@ -7,7 +7,7 @@
 
 ### ⚒ Project Demo:
 
-Experience the project in action by visiting our live demo: [Trillo - Static Hotel Website UI Demo](http://hotel-trillo.surge.sh/)
+Experience the project in action by visiting our live demo: [Trillo - Static Hotel Website UI Demo](https://hotel-trillo.surge.sh/)
 
 ---
 
@@ -19,12 +19,26 @@ As a static website, Trillo focuses on delivering an exceptional user experience
 
 ---
 
+### ⚙ Dockerized Execution:
+
+To run project using Docker run the following commands:
+
+```bash
+  docker build -t <tag-name> .
+
+  docker run -p 8080:8080 <tag-name>
+```
+
+---
+
 ### 🤹‍♂️ Skills Utilized:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code)&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=Html5)&nbsp;&nbsp;&nbsp;&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)&nbsp;&nbsp;&nbsp;&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SASS)&nbsp;&nbsp;&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=github-actions)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
@@ -45,7 +59,7 @@ We would like to acknowledge the following contributor for their valuable contri
 Take a glimpse into the captivating world of Natours Tour Static Website:
 
 <p align="center">
-  <a href="http://hotel-trillo.surge.sh/">
+  <a href="https://hotel-trillo.surge.sh/">
     <img width='100%' src="screen-shot.png"/>
   </a>
 </p>
